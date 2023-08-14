@@ -1,9 +1,9 @@
 # PRM392 - Map Demo Project - Group 1
-Note: Mọi người tự chọn task và ghi vào đây nha. (mỗi người ÍT NHẤT 1 TASK liên quan tới map)
+
 ## What's on this project:
 Done| Task | Name | Status
 ----| ---- | ---- | ---
-[x] | Embed Google map api (view only) | Lam | Done
+[x] | Embed Google map api (view only) | Lam | Done[x] | Add marker to the map | Thong | Done
 [] | Display current location in map view | Lam | On-going
 [] | [Your task here] | [Your name] | [Status]
 ...| ... | ... | ...
@@ -22,3 +22,6 @@ When you add a new commit, it must follow this naming convention:
 ## Pull request convention
 You must create a pull request before your code is merged into main. The pull request must be followed this naming convention:
 **"[YourName][YourFunction]"**
+
+## Screenshot
+![image](https://github.com/thongnt0208/android-map-marker/blob/master/screenshot/record_01.gif?raw=true)
