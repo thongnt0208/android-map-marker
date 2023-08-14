@@ -3,7 +3,8 @@
 ## What's on this project:
 Done| Task | Name | Status
 ----| ---- | ---- | ---
-[x] | Embed Google map api (view only) | Lam | Done[x] | Add marker to the map | Thong | Done
+[x] | Embed Google map api (view only) | Lam | Done
+[x] | Add marker to the map | Thong | Done
 [] | Display current location in map view | Lam | On-going
 [] | [Your task here] | [Your name] | [Status]
 ...| ... | ... | ...
